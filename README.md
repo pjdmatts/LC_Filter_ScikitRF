@@ -170,8 +170,6 @@ See project repository for licensing information.
 ## Author
 
 **Peter Matthews**
-RF/Microwave Circuit Design
-Specializing in defense, aerospace, and precision sensing applications
 
 ---
 
