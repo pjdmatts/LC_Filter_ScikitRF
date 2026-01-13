@@ -1,0 +1,7 @@
+# Core dependencies for LC filter simulation notebooks
+scikit-rf>=1.0.0
+numpy>=1.24.0
+scipy>=1.10.0
+matplotlib>=3.7.0
+jupyter>=1.0.0
+ipykernel>=6.0.0
