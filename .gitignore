@@ -217,3 +217,7 @@ Thumbs.db
 
 # Project-specific RF/microwave files
 *.s2p.bak
+
+# Claude Code (local development only)
+CLAUDE.md
+.claude/

@@ -15,7 +15,6 @@ This repository demonstrates:
 
 ```
 lc-filter-notebooks/
-├── CLAUDE.md              # Project guidelines and conventions
 ├── pyproject.toml         # Python project configuration (uv/pip)
 ├── requirements.txt       # Legacy pip requirements
 ├── notebooks/
